@@ -157,6 +157,7 @@ while running:
                             temp = "Zero Division Error"
     text_res = pygame.font.SysFont("Arial", 20).render(temp, True, RES)
     screen.blit(text_res, (75, 60))
+    text = ""
 
                 
 

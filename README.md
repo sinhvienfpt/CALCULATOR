@@ -6,4 +6,4 @@ This is one of my first projects so I cannot avoid errors, please send your comm
 
 Thank you for your visit!!!
 
-by: Hoang Viet Nguyen     email: vietnhqe180058@fpt.edu.vn
+By: Hoang Viet Nguyen | Email: vietnhqe180058@fpt.edu.vn

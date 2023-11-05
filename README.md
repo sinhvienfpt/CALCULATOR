@@ -1,5 +1,5 @@
 # Calculator
-![image](https://github.com/sinhvienfpt/calculator/assets/108646783/810a4c98-5362-4a01-8882-dc0b80695d75)
+![image](https://github.com/sinhvienfpt/calculator/assets/108646783/a992e589-470e-4032-9b94-904bbb4243b4)
 
 I made a simple calculator using Python.
 
